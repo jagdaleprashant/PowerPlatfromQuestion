@@ -1,0 +1,59 @@
+What are different type of app in power apps?
+What is DataVerse?
+What are different table type in Dataverse? Explain it with example
+What are security role in dataverse? 
+Explain relationship (One to many, Many to one,Many to Many ) with example
+What different kinds of form in dataverse? (Main, Quick create ,Quick view,Card)
+What are best practices in power apps and power automate.? 
+How to solve permformance issue in power apps? -> Use concurrent, Use of component,use of delegable query etc.
+What is publisher in creating solution?
+What are Custom connector? How we can create it?
+Why to create custom connector instead of direct HTTP call?
+Is preview version of connector recommended for Production use?
+What are Limitation of powerapps?
+What are limitation in Power Automate?
+Can we be able to use CSS or Javascript in PowerApps?
+Consider scenario where after item is deleted in SharePoint Online list it needs to be created in different tenant. How we can achieve it in Power Automate? What challenges we could face?
+In Power automate we are using excel connector. Excel file is stored in document library. However in Power Automate we are not able to get any table in selection. What could be wrong?
+What kind of license required to access premium connector?
+What is difference between lookup filter and search functio in power apps?
+How do you managed permissions in power apps?
+How we could stop loop back in power automate (i.e. flow is trigger on item modified and flow modifies item)?
+Can we be able to execute flow with connection for user who has triggered it?
+Explain component properties > Input , Output ,Function,Action,Event?
+What are new feature in power apps ? -> Check latest feature rolled out (e.g.Co authoring,PDF )
+What is named formulaes?
+What is web roles,Table permission,Page permission in power pages?
+What is liquid template in power pages?
+How to design responsive application on canvas application?
+Explain power automate approval workflows?
+How to send reminder in every week if approver has not taken action in approval workflow?
+Wher you can see history of power automate run beyond 28 days? -
+How to limit number of execution of power automate flows?
+How to let power automate flow run on certain condition. Example if item modified only when status=Completed
+Explain error handling function in Power apps?
+Explain error handling in power automate?
+If there multiple flows in application , how to implement reusable set actions\solution in it? -> Child flows?
+Explain delegation in power apps? 
+What is differenece between Isblank , IsEmpty?
+What is difference between Update,Patch?
+What are different function available in power apps to update datasource records?
+What is delegation limit ? Can we increase it?
+How to handle drop down of 10000 options?
+How to update data in external system using custom api?
+Types of environment in power apps?
+Difference between System Administrator, System customizer and Environment Maker role?
+How can store dataverse attachment in SharePoint?
+XRM object model ? Javascript injection Model driven app?
+Custom bar editing in Model driven application
+Explain Subgrid and its usage in Model driven application
+When to use dataverse vs SharePoint? Which is better?
+How to use git version control in power apps?
+How to develop people picker in power app?
+Explain Global variable, screen variable , enviornment variable?
+Diffrence between virtual table and data flow
+How to configuure -> One user want see its created data and other User can see all data in model driven app
+How to call Azure function thorugh powerautomate?
+How to use graph api in Power apps?
+How to configure CI/CD pipeline?
+Difference between dropdown and combobox
