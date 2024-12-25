@@ -1,0 +1,30 @@
+can we use SQL db in canvas and and is end user required permission 
+
+DLP type
+
+can we use JavaScript in canvas app 
+
+No, it's not possible to include JavaScript in Power Apps canvas app. It's possible to build PCF components that include JavaScript. However, it wouldn't be possible to call getElementById to reference a canvas control that's outside of the component.
+
+
+where you used liquid code 
+
+can we use third party api in canvas app?
+
+how to create  env variable file  fro CI/CD pipline
+
+canvas app any challenges ?
+
+how to retrieve  more than 45k data from SharePoint
+
+new feature in canvas app and flow
+
+cusrome validation on canvas app 
+
+sql qyery in canvas apo
+
+difference between systeam customezr vs enviorment admin
+
+diffrence between update and  upgrade
+
+nested loop limit
