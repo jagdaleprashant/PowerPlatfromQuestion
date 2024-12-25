@@ -1,0 +1,9 @@
+Is user left org then that what about that flow ownership
+Assign new co-owner(s) to an orphaned flow
+From the flow list, select the orphaned flow to open the flow details page.
+Select Manage sharing at the bottom of the Owners list.
+Type in a new owner name and select the new owner account.
+Select Save to save the changes.
+currency column created data verse then how many column created 
+MyCurrency (Value Column) stores the amount.
+MyCurrency_precision (Precision Column) stores the number of decimal places.
