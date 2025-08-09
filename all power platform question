@@ -222,4 +222,24 @@ nested loop limit
 13) design pattern ,principle  in power app
 14) what is deletion control
 15) galley inside gallery 
-can we use SQL db in canvas and and is end user required permission 2) DLP type 3) can we use JavaScript in canvas app 4) where you used liquid code 5 )can we use third party api in canvas app? 6) how to create env variable file fro CI/CD pipline 7) canvas app any challenges ? 8) how to retrieve more than 45k data from SharePoint 9)new feature in canvas app and flow
+can we use SQL db in canvas and and is end user required permission 2) DLP type 3) can we use JavaScript in canvas app 4) where you used liquid code 5 )can we use third party api in canvas app? 6) how to create env variable file fro CI/CD pipline 7) canvas app any challenges ? 8) how to retrieve more than 45k data from SharePoint
+9)new feature in canvas app and flow
+What is the difference between LookUp(), First(), and Filter() functions in Power Apps, and when would you use each?
+
+If an Excel file is stored in SharePoint, which Power Platform app or connector would you use to work with its data, and why?
+
+What is the difference between Patch() and SubmitForm() in Power Apps, and when would you use each method?
+
+What is the difference between Search() and Filter() in Power Apps, and which is more efficient for large datasets?
+
+What are the different types of flows in Power Automate, and can you give examples of when each type is best suited?
+
+In Power Apps, how would you show a loading spinner when a button is clicked to trigger a flow, and how would you handle the case where the flow fails or does not return output?
+
+What are the different ways to implement error handling in Power Apps? Compare IsError() and IfError().
+
+What is the difference between IsEmpty() and IsBlank() in Power Apps, and when should you use each?
+
+Why might the OnError property not work as expected in Power Apps, and how can you handle errors effectively instead?
+
+If an Excel file has data that is added to a Dataflow and then stored in a Dataverse table, how would you restore it in case of data loss?
