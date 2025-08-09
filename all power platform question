@@ -40,3 +40,186 @@ power app using datavrse as virtual table to azure sql , what is respon time
 14) responsive canavas app
 15) container type
 16) delay i power app
+Cache
+custom connecter 
+share app to everyone
+stream
+how to know that data is saved in SQL in case of virtual table of dtaverse
+2) how to copy one configuration dataverse table data  to another environment 
+3) how to delete dataverse table data from last 30 days and its has million data ,bulk delete ?
+4) power automate flow geting 4000 itme from SharePoint list , how to check powetnate permformace as it ktening time in exuction ,concurrency control
+5) what is manage  and unmanged environment 
+6) can we use lookup from SQL table to datavese virutul table 
+7) one atavese virutul table  to anohter virutl table as looup
+8) Power automate pipline 
+9) Power automate pipline prerequires 
+10) CI/CD pipeline 
+11)  in canvas app get data from 2 SharePoint list date and show in gallery ( colection merge) 
+12) if one form but need to save data in to 3 different list at same time 
+13) what is named formula
+14) one old canvas app , but customer is complaining  about performance , what to check 
+15) business rules 
+16) canvas app 5 items check box selected in gallery and copy that selected itme in datavrse or sharepoint list 
+17) patch syntax 
+18) how to make canvas app responsive 
+19) power automate license and capacity management 
+20) per app , per user license 
+21) if 50 users are using model driven app and 10 user using  model driven app then which power app license is user full
+22) diffrence between orginzation and User ownership 
+23) can we change ownership
+Delegation in canvas apps 
+Difference between canvas and model driven apps 
+How would you approach a project when a user came to you 
+How do you handle larger data sets without slowing down the app 
+How do you call a power automate flow in the model driven app 
+Can we use anything other than form in model driven app 
+How to you get power automate logs
+And rest all project based questions and kind of hr based questions if you were given this work what will you do and all
+canvas app use cx but no permission in SharePoint, then how to use
+1) Environment strategy 
+2) Connection Vs Connection reference 
+3) filter vs collection
+4) copilot studio
+What are different type of app in power apps?
+What is DataVerse?
+What are different table type in Dataverse? Explain it with example
+What are security role in dataverse? 
+Explain relationship (One to many, Many to one,Many to Many ) with example
+What different kinds of form in dataverse? (Main, Quick create ,Quick view,Card)
+What are best practices in power apps and power automate.? 
+How to solve permformance issue in power apps? -> Use concurrent, Use of component,use of delegable query etc.
+What is publisher in creating solution?
+What are Custom connector? How we can create it?
+Why to create custom connector instead of direct HTTP call?
+Is preview version of connector recommended for Production use?
+What are Limitation of powerapps?
+What are limitation in Power Automate?
+Can we be able to use CSS or Javascript in PowerApps?
+Consider scenario where after item is deleted in SharePoint Online list it needs to be created in different tenant. How we can achieve it in Power Automate? What challenges we could face?
+In Power automate we are using excel connector. Excel file is stored in document library. However in Power Automate we are not able to get any table in selection. What could be wrong?
+What kind of license required to access premium connector?
+What is difference between lookup filter and search functio in power apps?
+How do you managed permissions in power apps?
+How we could stop loop back in power automate (i.e. flow is trigger on item modified and flow modifies item)?
+Can we be able to execute flow with connection for user who has triggered it?
+Explain component properties > Input , Output ,Function,Action,Event?
+What are new feature in power apps ? -> Check latest feature rolled out (e.g.Co authoring,PDF )
+What is named formulaes?
+What is web roles,Table permission,Page permission in power pages?
+What is liquid template in power pages?
+How to design responsive application on canvas application?
+Explain power automate approval workflows?
+How to send reminder in every week if approver has not taken action in approval workflow?
+Wher you can see history of power automate run beyond 28 days? -
+How to limit number of execution of power automate flows?
+How to let power automate flow run on certain condition. Example if item modified only when status=Completed
+Explain error handling function in Power apps?
+Explain error handling in power automate?
+If there multiple flows in application , how to implement reusable set actions\solution in it? -> Child flows?
+Explain delegation in power apps? 
+What is differenece between Isblank , IsEmpty?
+What is difference between Update,Patch?
+What are different function available in power apps to update datasource records?
+What is delegation limit ? Can we increase it?
+How to handle drop down of 10000 options?
+How to update data in external system using custom api?
+Types of environment in power apps?
+Difference between System Administrator, System customizer and Environment Maker role?
+How can store dataverse attachment in SharePoint?
+XRM object model ? Javascript injection Model driven app?
+Custom bar editing in Model driven application
+Explain Subgrid and its usage in Model driven application
+When to use dataverse vs SharePoint? Which is better?
+How to use git version control in power apps?
+How to develop people picker in power app?
+Explain Global variable, screen variable , enviornment variable?
+Diffrence between virtual table and data flow
+How to configuure -> One user want see its created data and other User can see all data in model driven app
+How to call Azure function thorugh powerautomate?
+How to use graph api in Power apps?
+How to configure CI/CD pipeline?
+Difference between dropdown and combobox
+how to get more than 25 email attachment from outlook using power automate , flow tiger ones
+
+how to call child flow if no solution 
+
+what is the use of child flows
+
+why MS introduced collection as there is variable can store table data 
+
+collection row limit 
+
+SharePoint get item action row limit in power automate
+
+how to make canvas app responsive 
+
+how to get flow run history after 28 days
+
+can we change flow owner ?
+
+want to change all button color at ones in power app
+how to add control dynamically 
+how to update bulk edit in canvas app, 20 items at a time 
+how to share form control as per SharePoint group permission
+how to update all 25 items in SharePoint librabry 
+Como box  how to show 2 items selected multiple  by defaut;
+power automate trigger when status value changed
+how to make app responsive 
+azure function vs web jobs
+Is user left org then that what about that flow ownership
+Assign new co-owner(s) to an orphaned flow
+From the flow list, select the orphaned flow to open the flow details page.
+Select Manage sharing at the bottom of the Owners list.
+Type in a new owner name and select the new owner account.
+Select Save to save the changes.
+currency column created data verse then how many column created 
+MyCurrency (Value Column) stores the amount.
+MyCurrency_precision (Precision Column) stores the number of decimal places.
+MS code review tootl
+can we use SQL db in canvas and and is end user required permission 
+
+DLP type
+
+can we use JavaScript in canvas app 
+
+No, it's not possible to include JavaScript in Power Apps canvas app. It's possible to build PCF components that include JavaScript. However, it wouldn't be possible to call getElementById to reference a canvas control that's outside of the component.
+
+
+where you used liquid code 
+
+can we use third party api in canvas app?
+
+how to create  env variable file  fro CI/CD pipline
+
+canvas app any challenges ?
+
+how to retrieve  more than 45k data from SharePoint
+
+new feature in canvas app and flow
+
+cusrome validation on canvas app 
+
+sql qyery in canvas apo
+
+difference between systeam customezr vs enviorment admin
+
+diffrence between update and  upgrade
+
+nested loop limit
+
+1) While closing app , give confirmation 
+2) SOLID principle  pattern in power app
+3) POWER APP best practice 
+4) gallery control type 
+5) how to add gallery in to gallery 
+6) creating new application , what format available 
+7) similar control like gallery  control
+8) how to apply alternate color to grid in power app
+9) gallery control  action
+10) Power App Security consideration 
+11) when to user tablet and when to use mobile in power app
+12) back enabled settings in power app
+13) design pattern ,principle  in power app
+14) what is deletion control
+15) galley inside gallery 
+can we use SQL db in canvas and and is end user required permission 2) DLP type 3) can we use JavaScript in canvas app 4) where you used liquid code 5 )can we use third party api in canvas app? 6) how to create env variable file fro CI/CD pipline 7) canvas app any challenges ? 8) how to retrieve more than 45k data from SharePoint 9)new feature in canvas app and flow
