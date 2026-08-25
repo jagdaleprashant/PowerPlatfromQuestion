@@ -1,1 +1,45 @@
 
+Power Platform Interview Questions
+
+1. What is an Environment in Power Platform? Explain the different environment types and their use cases.
+
+
+2. What is the difference between an Update and an Upgrade in Power Platform solution management?
+
+
+3. How can you restrict users from creating Canvas Apps in the Default Environment?
+
+
+4. By default, what security role or permissions does a user receive in the Default Environment?
+
+
+5. If there are 1,000 users in the organization but only 100 users have Power Platform licenses, how can you ensure that the remaining 900 users cannot access or create Model-Driven Apps?
+
+
+6. What is the best approach for passing a large volume of data from Power Automate to a Canvas App when the data resides in Dataverse?
+
+
+7. You have 10 SQL Server connections available, but your governance policy allows access to only 5 approved SQL Servers. How would you enforce this requirement using DLP policies and governance controls?
+
+
+8. What is the difference between Environment Admin and Environment Maker roles?
+
+
+9. How would you design an Environment Strategy for a large enterprise with Dev, Test, UAT, and Production environments?
+
+
+10. How do DLP policies work, and can exceptions be granted at the app or flow level?
+
+
+11. What are Managed Environments, and what governance benefits do they provide?
+
+
+12. How would you implement ALM (Application Lifecycle Management) for Power Platform solutions?
+
+
+13. What are Solution Layers, and how can they impact Production environments?
+
+
+14. How many DLP policies can be created for a Power Platform environment? If multiple DLP policies apply to the same environment, which policy takes precedence, and how does the policy apply to apps and flows within that environment?
+
+
