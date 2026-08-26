@@ -43,3 +43,6 @@ Power Platform Interview Questions
 14. How many DLP policies can be created for a Power Platform environment? If multiple DLP policies apply to the same environment, which policy takes precedence, and how does the policy apply to apps and flows within that environment?
 
 15.How to minimise hallucinations  while creating copilot agent
+A clearer way to ask this would be:
+
+16 .If a rule is created and applied at the Environment Group level across 10 environments, but one specific environment requires an exception to that rule, how should we implement the exception? What is the recommended governance model to manage, approve, audit, and prevent misuse of environment-level exceptions?”
