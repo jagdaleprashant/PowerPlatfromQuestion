@@ -11,3 +11,4 @@ What is a Multi-Model Agent? How can an agent use different AI models for differ
 How would you create an Autonomous Agent? Explain the key configuration and design considerations.
 How would you create an agent that runs automatically every day without specifying an exact execution time? What trigger or scheduling mechanism would you use?
 What is RBAC (Role-Based Access Control)? How is RBAC used to control access to agents, tools, data, and environments?
+How would you troubleshoot a Copilot agent when its response time is very high?
