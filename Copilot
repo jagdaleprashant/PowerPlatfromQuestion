@@ -12,3 +12,104 @@ How would you create an Autonomous Agent? Explain the key configuration and desi
 How would you create an agent that runs automatically every day without specifying an exact execution time? What trigger or scheduling mechanism would you use?
 What is RBAC (Role-Based Access Control)? How is RBAC used to control access to agents, tools, data, and environments?
 How would you troubleshoot a Copilot agent when its response time is very high?
+
+
+I extracted the content from the screenshots and organized it below.
+
+# Interview Questions
+
+## 1. Agent / AI Architecture Questions
+
+1. Let's assume there is an unmanaged layer created, and now you have to do the deployment. What could be the consequences that you can face?
+2. What does **Child Agent** and **Connected Agent** mean? What's the difference between these two?
+3. Let's talk in the context of agents. *(Follow-up asking specifically about agents.)*
+4. Do you have prior experience working with **multi-agent orchestration**?
+5. What's the difference between **topic-based approach** and **Gen-based approach** in agent development?
+
+---
+
+# 2. Power Platform ALM & Solution Deployment
+
+1. What are **managed and unmanaged solutions** in Power Platform?
+2. What is an **unmanaged layer**?
+3. How do you identify **unmanaged layers in Production**?
+4. What issues can occur if a component has an unmanaged layer during deployment?
+5. How do you troubleshoot deployment failures in a managed solution?
+6. What checks do you perform before moving a solution to Production?
+7. How do **solution patches** differ from **solution upgrades**?
+8. What is the role of **environment variables** during deployment?
+9. How do you handle **broken connections** after deployment?
+10. What are **solution dependencies**, and how do you resolve dependency issues?
+
+---
+
+# 3. Power Automate
+
+1. What is the difference between **Cloud Flows** and **Desktop Flows**?
+2. Have you worked with **Child Flows**? Explain the use case.
+3. What are the prerequisites for creating **Child Flows**?
+4. How do **Parent and Child Flows communicate**?
+5. How do you implement **exception handling** in Power Automate?
+6. How do you optimize a flow that takes a long time to execute?
+7. Explain different **trigger types** in Power Automate.
+8. How do you secure **sensitive information** in a flow?
+
+---
+
+# 4. Copilot Studio
+
+1. What is **Copilot Studio**?
+2. What is the difference between **Topic-based** and **Generative AI-based** approaches?
+3. When would you use **Topic-based conversations**?
+4. When would you use **Generative AI capabilities**?
+5. What are **Generative Answers** in Copilot Studio?
+6. What data sources can be connected to Copilot Studio?
+7. How do you **publish and deploy a Copilot**?
+8. What is **Conversation Boosting**?
+9. How do you **monitor Copilot performance**?
+
+---
+
+# 5. Multi-Agent Architecture
+
+1. What is a **Child Agent** in Copilot Studio?
+2. What is a **Connected Agent**?
+3. What is **Multi-Agent Orchestration**?
+4. Have you worked on **Agent-to-Agent communication**?
+5. What are the benefits of using **multiple agents instead of a single agent**?
+6. How does **routing happen between agents**?
+
+---
+
+# 6. Scenario-Based Questions — Venkadesh Style
+
+1. **Unmanaged Layer in Production**
+   You found an unmanaged layer in Production. What will you do before deployment?
+
+2. **Managed Solution Deployment**
+   A managed solution deployment succeeded, but users cannot see the latest changes. What could be the reason?
+
+3. **Flow Connection Issue**
+   After deployment, some flows are failing due to connection issues. How would you troubleshoot?
+
+4. **Copilot + SharePoint**
+   Your Copilot is not returning expected answers from SharePoint. How would you investigate?
+
+5. **Child Flow Production Failure**
+   A Child Flow is failing in Production but working in Dev. What checks would you perform?
+
+6. **Multiple-Agent Requirement**
+   The business wants multiple agents to handle different functions. How would you design the solution?
+
+---
+
+## Interviewer's Feedback
+
+**Recommended for P4 (10+ experience)**
+
+* The candidate demonstrated clear and effective business communication skills throughout the discussion. They addressed the questions appropriately with minimal deviation from the topics being assessed.
+* The candidate possesses strong knowledge of core concepts, including **Standard Harness vs. GitHub Copilot Harness** and **Classic vs. Generative AI Orchestration**. He also showcased hands-on, real-time experience working on **Copilot AI projects**.
+* The candidate has good knowledge of the **Power Platform**. However, there are some areas for improvement, particularly in **exception handling and Dataverse**, where his understanding appeared limited.
+* His ability to solution **AI Agents** was assessed as average, with opportunities to strengthen **architectural and solution design capabilities** in this area.
+* Overall, the candidate performed well, demonstrated relevant practical experience and foundational knowledge, and is **recommended for selection**.
+
